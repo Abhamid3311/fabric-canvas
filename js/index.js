@@ -1,42 +1,16 @@
 // Initiate a canvas
 const canvas = new fabric.Canvas("canvas");
 
-//Add Object
+/* //Add Object
 const circle = new fabric.Circle({
-  radius: 40,
-  fill: "#9370db",
-  top: 100,
-  left: 100,
-});
-
-const circle2 = new fabric.Circle({
   radius: 40,
   fill: "#ff0000",
   top: 110,
   left: 110,
 });
 
-const triangle = new fabric.Triangle({
-  width: 60,
-  height: 70,
-  fill: "#87a96b",
-  left: 30,
-  top: 20,
-});
-
-var rectangle = new fabric.Rect({
-    width: 200,
-    height: 100,
-    fill: 'green',
-    stroke: 'green',
-    strokeWidth: 3
-});
-
 // Adding object to the canvas
-canvas.add(circle);
-canvas.add(circle2);
-canvas.add(triangle);
-canvas.add(rectangle);
+canvas.add(circle); */
 
 
 //Add Image
